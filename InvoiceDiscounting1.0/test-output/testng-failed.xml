@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [CentrumFinvisage]">
+  <test thread-count="5" name="CantrumApp Test(failed)">
+    <classes>
+      <class name="com.CentrumFinvisage.testCases.Program">
+        <methods>
+          <include name="setUp"/>
+          <include name="editProgram"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.CentrumFinvisage.testCases.Program -->
+    </classes>
+  </test> <!-- CantrumApp Test(failed) -->
+</suite> <!-- Failed suite [CentrumFinvisage] -->

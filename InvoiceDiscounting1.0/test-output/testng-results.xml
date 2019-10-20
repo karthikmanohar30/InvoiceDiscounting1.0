@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CentrumFinvisage" duration-ms="273869" started-at="2019-10-17T11:38:09Z" finished-at="2019-10-17T11:42:43Z">
+    <groups>
+    </groups>
+    <test name="CantrumApp Test" duration-ms="273869" started-at="2019-10-17T11:38:09Z" finished-at="2019-10-17T11:42:43Z">
+      <class name="com.CentrumFinvisage.testCases.Lender">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.Lender@5622fdf]" name="setUp" is-config="true" duration-ms="3725" started-at="2019-10-17T11:40:45Z" finished-at="2019-10-17T11:40:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editLender()[pri:0, instance:com.CentrumFinvisage.testCases.Lender@5622fdf]" name="editLender" duration-ms="24674" started-at="2019-10-17T11:40:49Z" finished-at="2019-10-17T11:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLender -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.Lender@5622fdf]" name="tearDown" is-config="true" duration-ms="780" started-at="2019-10-17T11:41:13Z" finished-at="2019-10-17T11:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.Lender -->
+      <class name="com.CentrumFinvisage.testCases.Logintest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.Logintest@6a41eaa2]" name="setUp" is-config="true" duration-ms="15091" started-at="2019-10-17T11:38:09Z" finished-at="2019-10-17T11:38:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.CentrumFinvisage.testCases.Logintest@6a41eaa2]" name="loginTest" duration-ms="5780" started-at="2019-10-17T11:38:24Z" finished-at="2019-10-17T11:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.Logintest@6a41eaa2]" name="tearDown" is-config="true" duration-ms="902" started-at="2019-10-17T11:38:30Z" finished-at="2019-10-17T11:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.Logintest -->
+      <class name="com.CentrumFinvisage.testCases.Facility">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.Facility@6093dd95]" name="setUp" is-config="true" duration-ms="3710" started-at="2019-10-17T11:40:19Z" finished-at="2019-10-17T11:40:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editFacility()[pri:0, instance:com.CentrumFinvisage.testCases.Facility@6093dd95]" name="editFacility" duration-ms="21436" started-at="2019-10-17T11:40:23Z" finished-at="2019-10-17T11:40:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editFacility -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.Facility@6093dd95]" name="tearDown" is-config="true" duration-ms="724" started-at="2019-10-17T11:40:44Z" finished-at="2019-10-17T11:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.Facility -->
+      <class name="com.CentrumFinvisage.testCases.Program">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.Program@6d4b1c02]" name="setUp" is-config="true" duration-ms="4421" started-at="2019-10-17T11:39:18Z" finished-at="2019-10-17T11:39:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editProgram()[pri:0, instance:com.CentrumFinvisage.testCases.Program@6d4b1c02]" name="editProgram" duration-ms="56293" started-at="2019-10-17T11:39:22Z" finished-at="2019-10-17T11:40:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editProgram -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.Program@6d4b1c02]" name="tearDown" is-config="true" duration-ms="800" started-at="2019-10-17T11:40:18Z" finished-at="2019-10-17T11:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.Program -->
+      <class name="com.CentrumFinvisage.testCases.ExternalParties">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.ExternalParties@4883b407]" name="setUp" is-config="true" duration-ms="3600" started-at="2019-10-17T11:41:14Z" finished-at="2019-10-17T11:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editExternalParty()[pri:0, instance:com.CentrumFinvisage.testCases.ExternalParties@4883b407]" name="editExternalParty" duration-ms="84679" started-at="2019-10-17T11:41:18Z" finished-at="2019-10-17T11:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editExternalParty -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.ExternalParties@4883b407]" name="tearDown" is-config="true" duration-ms="799" started-at="2019-10-17T11:42:42Z" finished-at="2019-10-17T11:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.ExternalParties -->
+      <class name="com.CentrumFinvisage.testCases.Anchor">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.Anchor@7cd62f43]" name="setUp" is-config="true" duration-ms="3591" started-at="2019-10-17T11:38:31Z" finished-at="2019-10-17T11:38:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createAnchor()[pri:0, instance:com.CentrumFinvisage.testCases.Anchor@7cd62f43]" name="createAnchor" duration-ms="41889" started-at="2019-10-17T11:38:35Z" finished-at="2019-10-17T11:39:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnchor -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.Anchor@7cd62f43]" name="tearDown" is-config="true" duration-ms="872" started-at="2019-10-17T11:39:17Z" finished-at="2019-10-17T11:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.Anchor -->
+    </test> <!-- CantrumApp Test -->
+  </suite> <!-- CentrumFinvisage -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "CentrumFinvisage">
+<test name = "CantrumApp Test">
+<classes>
+	
+	<class name = "com.CentrumFinvisage.testCases.Logintest" />
+	<class name = "com.CentrumFinvisage.testCases.Anchor" />
+	<class name = "com.CentrumFinvisage.testCases.Program" />
+	<class name = "com.CentrumFinvisage.testCases.Facility" />
+	<class name = "com.CentrumFinvisage.testCases.Lender" />
+	<class name = "com.CentrumFinvisage.testCases.ExternalParties" />
+	
+
+</classes> 
+</test>
+</suite>
